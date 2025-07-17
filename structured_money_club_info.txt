@@ -1,0 +1,7863 @@
+
+=== Money Club Overview ===
+The Money Club is a safe and secure mobile platform for P2P Savings. Join a club with like-minded people across India, invest money, and borrow multiples of your investment in times of need.
+
+=== How to Join a Money Club ===
+1. Download the Money Club app.
+2. Tap ‘Continue’.
+3. Fill out and submit the form.
+4. Take a demo or contact support to complete your verification.
+
+=== Purpose of the App ===
+- Helps during financial emergencies.
+- Solves the issue of low returns from FDs and risky stock markets.
+- Encourages regular savings.
+
+=== Quick Club Terms ===
+- Members Required: 4–20
+- Minimum Contribution: ₹200
+- Minimum Bid: 1% of total club amount
+- Frequency: Daily, Every 3 Days, Weekly, Fortnightly, Monthly
+
+=== FAQ Summary ===
+Q. What if someone defaults?
+A. A Money Club team member replaces the defaulter. Debt recovery protocols follow.
+
+Q. What if no one bids?
+A. The app auto-selects a member and places the minimum bid on their behalf (Auto Bid).
+
+Q. How is money transferred?
+A. After bidding, members receive winner details (UPI, bank, amount). Payments are made directly and updated in the app.
+
+Q. What is the commission structure?
+A. Commission depends on:
+   - Real clubs closed
+   - Contribution amount
+   - Weighted average transfer time
+   - Ranges from 4.0% to 0.5%
+
+=== Team & Advisors ===
+- Manuraj Jain (Founder & CEO): IIT Kgp, INSEAD MBA
+- Surajit Ray (Co-Founder & CTO): IIT Kgp, Former Chief Architect at Apollo Munich
+- Siddhant Gupta (CEO’s Office): Jindal Law School, Interned at top law firms, studied at Columbia & Oxford
+- Kishalay Kundu (VP Engineering): IIT Kgp, Univ. Manitoba, UMBC
+- Randeep Pathak (Club Management Head): VIT, 5+ years experience
+- Mahesh Ramachandra (Fintech Advisor): Finblue, Pontaq Fund
+- Gaurav Suri (Capital Structuring Advisor): IIT Delhi, INSEAD, Livermore Capital AG
+- Rishi Anand (Legal Advisor): DSK Legal, 12+ years in M&A
+- Alok Nandan (Product Advisor): IIT Kgp, UCLA, Emergent VC
+- Ramanna Sathyanarayana (Engineering Advisor): IIT Delhi, 20+ years at SAP
+- Vikrant Singh (Head of Operations): BSc, Customer Relations
+
+=== Contact & Legal Links ===
+- FAQs | About | Blog | Contact
+- Terms & Conditions | Privacy Policy | User Agreement | Grievance Redressal
+
+=== Final Note ===
+Get funds easily when you need it most. Join for FREE via the Money Club app!
+
+Club Types	Pilot Club (1-day, test experience), Real Club 
+Winning Method	Lowest bidder wins the pot 
+Why Users Drop	Didn’t understand process, fear of losing money, high commission, financial issue, personal issue etc
+
+
+
+Terms & Conditions - The Money Club
+
+
+
+
+                                  01. Individual Contribution
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    A fixed amount that each user contributes
+                                    towards the club.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  02. Club Frequency
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Duration between bidding rounds chosen when
+                                    the club was created.
+                                  
+
+
+
+                                    Daily, 3 days, Weekly, Fortnightly, Monthly,
+                                    etc.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  03. Club Amount
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Total value of the club per round i.e.
+                                    (Number of members) x (Individual
+                                    contribution), also known as pooled amount.
+                                  
+
+
+
+                                    For an instance, in a club of 5 members,
+                                    where each member agrees to contribute Rs
+                                    10,000/-, the club amount will be 5 x Rs
+                                    10,000 = Rs.50,000.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  04. Bid Amount
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    The value of interest a member is willing to
+                                    pay to pick up the Club Amount.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  05. Bid Date
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Date agreed by the Money Club team for
+                                    bidding.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  06. Bid Time
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Time of the day when the bidding will start
+                                    on the Bid Date as per the available bidding
+                                    slots. Bid time is usually between 7 PM to
+                                    10 PM.
+                                  
+
+
+
+                                    The bid is usually activated within 30
+                                    minutes of the previous bid time depending
+                                    on the slots available.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  07. Bid Window
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Duration for which the members will be able
+                                    to bid.
+                                  
+
+
+
+                                    The Bidding Window is 15 minutes except in
+                                    case of Super timer.
+                                  
+
+
+
+
+Super Timer:
+ This feature
+                                    increases the bidding window by 1 minute
+                                    every time any club member places a bid in
+                                    the last 1 minute of the bidding. Super
+                                    timer will not work in last 10 seconds of
+                                    bidding as we will be closing the bid during
+                                    the last 10 seconds.
+                                  
+
+
+
+                                    The app sends alarms to members before the
+                                    bidding starts as a courtesy, however
+                                    members should ensure not to miss the
+                                    bidding.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  08. Penalty for delayed transactions
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Penalty structure is not applicable in the
+                                    pilot clubs.
+                                  
+
+
+
+                                    Clubbers will need to pay a penalty in case
+                                    their transactions are delayed and done
+                                    after 18 hours from the bid end time.
+                                  
+
+
+
+                                    After 18 hours from the bid end time, a
+                                    penalty of Rs.30 will be added after every 6
+                                    hours of delay in transaction.
+                                  
+
+
+
+                                    Maximum penalty will be 80% of the
+                                    individual contribution amount.
+                                  
+
+
+
+                                    Penalty will be collected by the Money Club
+                                    and the bid winner will get 30% of the
+                                    penalty amount in the Vault section of the
+                                    Money Club app as soon as it is received
+                                    from the sender.
+                                  
+
+
+
+
+
+                                      The bid winner will get the penalty share
+                                      as credits in the Money Club Vault. These
+                                      Vault Credits can only be utilized within
+                                      the Money Club to pay commission to the
+                                      Money Club.
+                                    
+
+
+
+
+
+                                    All club members give their consent to abide
+                                    by this penalty structure if they accept
+                                    their invitation to join a money club.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  09. Defaulted Club
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    A Club will be declared defaulted if any of
+                                    the following conditions are met:
+                                    
+
+
+
+                                        One or more members of a club refuse or
+                                        fail to make the necessary transfers
+                                        against a round of bidding before the
+                                        scheduled bid date of the next round of
+                                        bidding + 1 day.
+                                      
+
+
+
+                                        One or more members of a club refuse or
+                                        fail to confirm the necessary transfers
+                                        against a round of bidding before the
+                                        scheduled bid date of the next round of
+                                        bidding + 1 day .
+                                      
+
+
+
+
+
+
+
+                                    If someone defaults in a club, he/she gets
+                                    blacklisted from the Money Club platform.
+                                    Therefore, if someone defaults in 1 club,
+                                    he/she is considered as a defaulter in all
+                                    his/her active clubs.
+                                  
+
+
+
+                                    The moment someone is unable to complete
+                                    his/her transaction in a particular round on
+                                    the scheduled date and time (shown on the
+                                    app) in any of his/her clubs + 1 day, he/she
+                                    is declared as a defaulter in all his/her
+                                    active clubs on the Money Club platform.
+                                  
+
+
+
+                                    Due amount: In case of a default, the due
+                                    amount is the sum total of all the present
+                                    and future commitments in all the money
+                                    clubs wherein someone has defaulted. And it
+                                    will also include the penalty amount for
+                                    delayed transfers, whenever applicable.
+                                  
+
+
+
+                                    If a net investor (someone who has not won
+                                    the club amount in his/her money club/s)
+                                    fails to complete his transaction in his/her
+                                    money club/s before the next scheduled bid
+                                    date + 1 day and the club defaults, he will
+                                    be replaced with another member to continue
+                                    the club. The investor can get the invested
+                                    amount refunded (after deducting
+                                    penalty/commission if any) by writing to the
+                                    Money Club support team through the Help
+                                    section of the Money Club app.
+                                  
+
+
+
+                                    In case of pilot clubs, if any member fails
+                                    to make the payment within 18 hours from the
+                                    bid start time, he would be considered to
+                                    have defaulted at the platform.
+                                  
+
+
+
+                                    Replacement of members (in case of default):
+                                    
+
+
+
+
+Borrower default:
+ If
+                                        someone defaults in his/her club after
+                                        winning the pooled amount, he/she will
+                                        be replaced with one of the Money Club
+                                        team members who will make the payment
+                                        for the current and the subsequent
+                                        rounds in that club.
+                                      
+
+
+
+
+Investor default:
+ If
+                                        someone defaults in his/her club without
+                                        winning the pooled amount, he/she will
+                                        be replaced with another verified member
+                                        who will make the payment of the
+                                        previous rounds of that club to the
+                                        Money Club and will complete the
+                                        payments for the current and the
+                                        subsequent rounds in that club.
+                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  In the worst case scenario, the Money Club
+                                  will take the following actions:
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Initiate the recovery protocol
+âÂ  Â âNotices of defaultâ with a 3-Level
+                                    escalation will be sent to the defaulters
+                                    email and physical address to allow the
+                                    Money Clubber some time to respond and clear
+                                    his dues. This may be supplemented with a
+                                    physical visit.
+                                  
+
+
+
+
+Penalty & Interest
+â The
+                                    defaulter has to pay a penalty (subject to
+                                    change) as well as interest @ 1% of the due
+                                    amount per day starting from the date we
+                                    start the recovery process.
+                                  
+
+
+
+
+Make calls to your contact list
+â If no affirmative response is received
+                                    from the defaulter then the debt recovery
+                                    team will call the defaulters contacts to
+                                    convince the defaulter to repay the amount.
+                                  
+
+
+
+
+Issue a legal notice to the
+                                      defaulter
+â If no response is received from the
+                                    defaulter even after this, aÂ 
+legal notice
+Â will be sent asking to repay the debt
+                                    before a certain date or else a legal case
+                                    will be filed against him. Post that a civil
+                                    suit will be filed against the defaulter in
+                                    the court of competent jurisdiction and a
+                                    court case will be initiated thereafter.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  10. Saviour Clubs
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    These clubs are available exclusively to eligible users in accordance with the company's policies.
+                                  
+
+
+
+                                    Eligible users can request to join a Saviour Club from the Money Club app for completing their pending transactions in a specific round of an existing ongoing money club (parent club).
+                                  
+
+
+
+                                    Money Club team reserves the right to approve or decline a userâs request to join a Saviour Club.
+                                  
+
+
+
+                                    Once your request to join a Saviour Club is approved by the Money Club team, you will receive a Saviour Club invitation in the Money Club app.
+                                  
+
+
+
+                                    After accepting the Saviour Club invitation, a club owner will be assigned to complete your pending transaction in the specified round of the Parent Club for which you requested to join a Saviour Club.
+                                  
+
+
+
+
+
+                                      If you have joined a Saviour Club for getting your transactions completed in a round of your parent club, then you will not be allowed to complete your pending transactions in that round of the parent club. These transactions will be completed by the club owner of the Saviour Club. 
+                                    
+
+
+
+
+
+                                    Bidding in Round 1 of Saviour Clubs will be completed immediately upon club creation. If you have joined a Saviour Club, you will be declared the bid winner in Round 1. However, the club owner of the Saviour Club will transfer the contribution amount to the bid winner of your Parent Club for the round in which you requested to join the Saviour Club.
+                                  
+
+
+
+                                    As soon as the bid winner of the specified round in the Parent Club accepts the transaction made by the club owner, the Saviour Club will progress to Round 2. In Round 2, bidding will be completed immediately upon the club's advancement, with the club owner being declared the bid winner.
+                                  
+
+
+
+                                    You get 30 days to transfer funds to the Club Owner in round 2 of a Saviour Club.
+                                  
+
+
+
+                                    You must transfer the full repayment amount to the Club Owner in Round 2 of a Saviour Club. The repayment amount is specified in the Saviour Club invitation within the Money Club app.
+                                  
+
+
+
+                                    In addition to the repayment amount, you are also required to pay a commission to the Money Club in round 2 of a Saviour Club, which consists of two components:
+                                    
+
+
+Any pending penalty amount in the Parent Club for the round in which you requested to join the Saviour Club.
+
+
+Club Commission, as outlined in the Club Commission table available in the Saviour Club invitation within the Money Club app.
+
+
+
+
+
+
+
+                                    In the worst-case scenario, if you fail to complete your transactions in the Saviour Clubs within the 30-day deadline, you will be classified as a defaulter on the Money Club platform and placed under the recovery protocol.
+                                  
+
+
+
+                                    It is recommended to use a Saviour Club only in times of crisis, as it may affect your weighted average transfer time, which influences your Money Club commission percentage.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  Bidding rules
+                                
+
+
+
+
+
+
+
+
+
+
+
+                                  01. Minimum bid amount
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    The minimum amount that the first bidder can
+                                    bid with will be 1% of the club amount
+                                    rounded up to a rupee. If the club amount is
+                                    Rs 50,000, then the minimum bid amount will
+                                    be Rs 500.
+                                  
+
+
+
+                                    Bid amount is Rs 0 for final round and
+                                    priority round.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  02. Maximum bid amount
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    The maximum amount that any bidder can bid
+                                    in a round can be 40% of the club amount
+                                    rounded up to a rupee. If the club amount is
+                                    Rs 50,000, then the maximum bid amount can
+                                    be Rs 20,000.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  03. Minimum bid increment
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    It is the minimum difference between two
+                                    consecutive bids.
+                                  
+
+
+
+                                    Bid increment is Rs 100 (fixed) for â
+                                    
+
+
+
+                                        Weekly, Fortnightly and Monthly clubs
+                                      
+
+
+
+                                        where the minimum club amount is Rs.1000
+                                        and the maximum club amount is Rs.20000
+                                      
+
+
+
+
+
+
+
+                                    Bid increment is 0.5% of the club amount for
+                                    â
+                                    
+
+
+Daily and 3 Days clubs
+
+
+
+                                        all the clubs where the club amount is
+                                        lesser than Rs.1000 or greater than
+                                        Rs.20000
+                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  04. Commission
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    All users are required to pay a Commission
+                                    to the Money Club upon winning a bid in any
+                                    club.
+                                  
+
+
+
+                                    Commission to be paid to the Money Club,
+                                    comprises of:
+                                    
+
+
+
+
+ User Commission
+ - User
+                                        Commission of every user is calculated
+                                        based on these three performance metrics
+                                        - Real clubs closed, Amount Transacted
+                                        So Far (in INR) and Weighted Average
+                                        Transfer Time (in Hours). Therefore, the
+                                        User Commission can differ from one user
+                                        to another according to their
+                                        performance on the Money Club platform.
+                                        Better the performance, lower the User
+                                        Commission. The calculation of the User
+                                        Commission is clearly displayed in the
+                                        Money Club app.
+                                      
+
+
+
+
+ Dynamic Club Type Commission
+ -
+                                        This is in addition to the User
+                                        Commission and may vary depending on the
+                                        type of club and the specific round
+                                        within a club. The applicable charges
+                                        are clearly displayed in the Money Club
+                                        app.
+                                      
+
+
+
+
+
+
+
+                                    In the Lucky Draw Priority Clubs, bid
+                                    winners in each round will be charged a flat
+                                    commission which will be displayed in the
+                                    app.
+                                  
+
+
+
+                                    In the other Priority Clubs and the
+                                    Samriddhi Clubs, both the User Commission
+                                    and the Dynamic Club Type Commission will be
+                                    applicable.
+                                  
+
+
+
+                                    The commission for the Pilot Clubs is a flat
+                                    commission which will be displayed in the
+                                    app.
+                                  
+
+
+
+
+Please review the commission details
+                                      thoroughly before accepting any club
+                                      invitation in the Money Club app.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  05. Bidding
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Every member is eligible to win the bid in
+                                    one of the rounds.
+                                  
+
+
+
+                                    A member cannot bid if he/she already won
+                                    the bid in a previous round.
+                                  
+
+
+
+                                    The member who bids the highest wins the
+                                    round.
+                                  
+
+
+
+                                    Winner will transfer commission to the Money
+                                    Club.
+                                  
+
+
+
+                                    Rest of the club members share bid amount
+                                    equally and transfer ((individual
+                                    contribution amount â (winnerâs bid
+                                    amount/(club size -1))) to the winner.
+                                  
+
+
+
+                                    In all cases the amount is rounded up to a
+                                    rupee with a minimum of Rs.1.
+                                  
+
+
+
+                                    Auto-bid: As per this feature, if no one
+                                    places a bid in the first 2 minutes of the
+                                    bidding duration, the system will randomly
+                                    pick a member eligible for bidding and place
+                                    a minimum bid on his/her behalf.
+                                  
+
+
+
+                                    The last round does not involve bidding.
+                                  
+
+
+
+                                    For Priority Clubs, the club owner gets to
+                                    choose a round that he can pick the amount
+                                    without bidding for it.
+                                  
+
+
+
+                                    For Lucky Draw Priority Clubs, no bidding
+                                    will take place in any round. Winners will
+                                    be selected at random in each round, with
+                                    the club owner automatically winning the
+                                    first round. The auto-bid percentage for
+                                    each round will be 0%.
+                                  
+
+
+
+                                    For Samriddhi Priority Clubs, the auto-bid
+                                    percentage for each round will be 0%.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  06. Fund Transfer Rules
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Once the bidding is complete, the app will
+                                    compute and show the amount that each member
+                                    has to pay to the winner.
+                                  
+
+
+
+
+Golden Rule:
+ All the club
+                                    members should complete their transaction
+                                    and update it on the app within an hour from
+                                    the end time of bidding. Members following
+                                    this rule build a reputed transaction
+                                    history on the platform and gain more
+                                    benefits.
+                                  
+
+
+
+                                    The winner has to transfer commission to the
+                                    Money Club bank account as calculated by the
+                                    app
+                                  
+
+
+
+                                    Other members will have to transfer their
+                                    contribution amount â (bid amount/(club
+                                    size-1)) to the bid winner.
+                                  
+
+
+
+                                    The app requires each member to update the
+                                    transaction ID (UTR number or reference
+                                    number) of the transaction on the Money Club
+                                    app so that the winner can check and confirm
+                                    the receipt of funds.
+                                  
+
+
+
+                                    The Club can be moved to the next round only
+                                    after all fund transfers are
+                                    updated/confirmed by the club members.
+                                  
+
+
+
+                                    All members of the club will receive
+                                    courtesy reminders about the pending
+                                    transactions both through the app
+                                    notification, SMS and email, however members
+                                    should ensure to transfer the amount right
+                                    after the bidding is complete.
+                                  
+
+
+
+                                    If any member does not complete his/her
+                                    transaction for the current round in any of
+                                    his clubs before the scheduled day of
+                                    bidding for the next round, we give
+                                    additional time to that member and he/she
+                                    can complete his/her transaction before 6 PM
+                                    the next day and avoid defaulting on the
+                                    platform.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  07. Removal From Club
+                                
+
+
+
+
+
+
+
+
+
+
+
+                                  The Money Club team has the authority to
+                                  remove any member from a club at any point of
+                                  time if the member is found guilty of any
+                                  fraud or misconduct or does not adhere to the
+                                  rules of the Money Club platform.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  General
+                                
+
+
+
+
+
+
+
+
+
+
+
+                                  01. Eligibility criteria for users
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    No individual under 18 years of age should
+                                    be allowed to register on the platform.
+                                  
+
+
+
+                                    You may use our services only if you are
+                                    legally permitted to do so under applicable
+                                    laws.
+                                  
+
+
+
+                                    You should be an Indian citizen and
+                                    resident.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  02. Usage of platform
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    You shall use the Services only for your
+                                    lawful and personal use. You will not use
+                                    our Services for any purposes not permitted
+                                    under applicable law and these Terms.
+                                  
+
+
+
+                                    You agree to not interfere with or use
+                                    non-public areas of our App and our
+                                    technical delivery system. You will not
+                                    introduce any trojans, viruses, any other
+                                    malicious software, any bots or scrape our
+                                    App for any user information. Additionally,
+                                    you will not probe, scan, or test the
+                                    vulnerability of any system, security or
+                                    authentication measures implemented by us.
+                                    If you tamper or attempt to tamper with our
+                                    technological design and architecture, we
+                                    may terminate your Money Club account. We
+                                    may further report such actions to the
+                                    appropriate law enforcement authorities and
+                                    initiate legal actions.
+                                  
+
+
+
+                                    You shall not use the App or the Services
+                                    for committing fraud, embezzlement, money
+                                    laundering or for any other unlawful and/or
+                                    illegal purposes. Further, although we may,
+                                    from time to time, monitor or review any
+                                    facilities, if established or otherwise
+                                    offered on the App for discussions, chats,
+                                    transmissions, and the like on the app, you
+                                    are prohibited from posting or transmitting
+                                    any unlawful, threatening, libelous,
+                                    defamatory, obscene, scandalous,
+                                    inflammatory, pornographic, profane material
+                                    or any material that could constitute or
+                                    encourage conduct that would be considered a
+                                    criminal offense, give rise to civil
+                                    liability, or otherwise violate any law. We
+                                    are under no obligation to do so and assume
+                                    no responsibility or liability arising from
+                                    the content of any such locations nor for
+                                    any error, defamation, libel, slander,
+                                    omission, falsehood, obscenity, pornography,
+                                    profanity, danger, or inaccuracy contained
+                                    in any information contained within such
+                                    locations on the App. We will fully
+                                    cooperate with any law enforcement
+                                    authorities or court order requesting or
+                                    directing us to disclose the identity of
+                                    anyone posting any such information or
+                                    materials.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  03. Cancellation and Refund Policy
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    If you wish to quit from any money club
+                                    without completing it or if you wish to
+                                    cancel your subscription from any money club
+                                    provided you have not picked up funds in any
+                                    round of the club, you may write to us on
+                                    
+support@themoneyclub.in
+
+                                    and your funds will be refunded to you
+                                    within 10 working days of receipt of request
+                                    (after deducting penalty/commission if any).
+                                  
+
+
+
+                                    If a net investor (someone who has not
+                                    picked up the club amount in his/her money
+                                    club/s) fails to complete his transaction in
+                                    his/her money club/s before the next
+                                    scheduled bid date + 1 day and the club
+                                    defaults, he will be replaced with another
+                                    member to continue the club. The investor
+                                    can get the invested amount refunded (after
+                                    deducting penalty/commission if any) by
+                                    writing to the Money Club support team
+                                    through the Help section of the Money Club
+                                    app.
+                                  
+
+
+
+                                    A Refund Request will be deemed valid only
+                                    if it is made through an email to
+                                    
+support@themoneyclub.in
+
+
+
+
+
+                                    Refunds shall be made to bank account within
+                                    10 working days of receipt of request.
+                                  
+
+
+
+                                    The customer shall ensure that all
+                                    information provided by the customer is true
+                                    and correct, including UPI ID or bank
+                                    account or other details provided for
+                                    refund. Money Club shall not be liable for
+                                    any issue arising from incorrect information
+                                    provided by the customer.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  04. Disclaimer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+For the cases where Money Club offers a
+                                    technology platform for the users to connect
+                                    with each other to Save and Invest money:
+                                    Money Club is a technology platform which
+                                    enables the users to connect with other
+                                    users across the country to join groups and
+                                    Save or Invest money. The Company provides
+                                    the services of connecting users via Money
+                                    Clubs and does not facilitate any financial
+                                    transactions between any of the users in any
+                                    manner. It provides match-making service
+                                    where the matches users having different
+                                    profiles to join the group and make the most
+                                    out of it.
+
+
+
+
+
+                                  You fully understand and agree that Money Club
+                                  only facilitates a virtual meeting place
+                                  between the Users on its online platform. The
+                                  decision to conduct financial transactions
+                                  with other users is entirely at the discretion
+                                  of the User and MoneyClub does not guarantee
+                                  that the Users will successfully complete the
+                                  financial transactions as per their
+                                  understanding with other Users.
+                                
+
+
+
+                                  You fully understand and agree that Money Club
+                                  provides a technology platform that enables
+                                  users to form closed clubs within which they
+                                  can Save, Invest and borrow money more
+                                  efficiently among themselves totally at their
+                                  own risk.
+                                
+
+
+
+                                  The User acknowledges and confirms that he/she
+                                  is well aware of the rules & regulations
+                                  and the risks involved in services offered by
+                                  the Company. Changes are periodically added to
+                                  the information herein.
+                                
+
+
+
+                                  The Company may make improvements and/or
+                                  changes on this platform at any time. We will
+                                  not be responsible for any data accessed /
+                                  mis-utilized by unauthorized use of the
+                                  platform by third party due to userâs neglect
+                                  or due to allowing access to personal data to
+                                  third party intentionally or unintentionally.
+                                
+
+
+
+                                  The Company will not be involved in any
+                                  financial handling. The user hereby agrees not
+                                  to raise any claim or dispute against the
+                                  Company and its directors, officers, employees
+                                  or agents against any breach of law which is
+                                  done by user or money changers which is beyond
+                                  the control of the Company.
+                                
+
+
+
+                                  No legal right is there to any member or user
+                                  of the platform to raise dispute against the
+                                  Company. The Company shall have the absolute
+                                  discretion to amend or supplement any of the
+                                  Terms at any time. We may communicate the
+                                  amended terms by hosting the same on the
+                                  platform or in any other manner as decided by
+                                  the Company. The user shall be responsible for
+                                  regularly reviewing these terms including
+                                  amendments thereto as may be posted on the
+                                  platform.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  05. Suspension or Termination of Services
+                                
+
+
+
+
+
+
+
+
+
+
+
+                                  Money Club may, at its sole discretion,
+                                  suspend / disallow / modify / restrict all or
+                                  any of the facilities offered under the App or
+                                  deny access to the App to any specific user at
+                                  any time and for such time period and for such
+                                  reasons as it deems fit, including on account
+                                  of inactive/dormant user ID, non- compliance
+                                  of these Terms, death, insolvency, or
+                                  bankruptcy of the user, any restriction
+                                  imposed by any legal/judicial/regulatory
+                                  authority, or for any other cause arising out
+                                  of the law/regulation or for such other
+                                  reasons as we may deem fit.
+                                
+
+
+
+                                  Money Club shall be entitled to withdraw or
+                                  terminate all or any Services without
+                                  assigning any reason whatsoever, without any
+                                  prior notice to the user. We shall not be
+                                  liable for any loss or damage that may be
+                                  sustained by any user on account of such
+                                  suspension / withdrawal / termination by Money
+                                  Club.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  06. Indemnity
+                                
+
+
+
+
+
+
+
+
+
+
+
+                                  You shall indemnify and hold harmless the
+                                  Company, its owner, licensee, affiliates,
+                                  subsidiaries, group companies (as applicable)
+                                  and their respective officers, directors,
+                                  agents, and employees, from any claim or
+                                  demand, or actions including reasonable
+                                  attorneysâ fees, made by any third party or
+                                  penalty imposed due to or arising out of Your
+                                  breach of this Terms of Use, Privacy Policy
+                                  and other Policies, or Your violation of any
+                                  law, rules or regulations or the rights
+                                  (including infringement of intellectual
+                                  property rights) of a third party.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  07. Limitation of Liability
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    In no event shall the company be liable for
+                                    any special, incidental, indirect or
+                                    consequential damages of any kind in
+                                    connection with these terms of use, even if
+                                    user has been informed in advance of the
+                                    possibility of such damages.
+                                  
+
+
+
+                                    The Company (including its officers,
+                                    directors, employees, representatives,
+                                    affiliates, and providers) will not be
+                                    responsible or liable for any injury, death,
+                                    loss, claim, act of god, accident, delay, or
+                                    any direct, special, exemplary, punitive,
+                                    indirect, incidental or consequential
+                                    damages of any kind (including without
+                                    limitation lost profits or lost savings),
+                                    whether based in contract, tort, strict
+                                    liability or otherwise, that arise out of or
+                                    is in any way connected with (i) any failure
+                                    or delay (including without limitation the
+                                    use of or inability to use any component of
+                                    the Website), or (ii) any use of the Website
+                                    or content, or (iii) the performance or
+                                    non-performance by us or any provider, even
+                                    if we have been advised of the possibility
+                                    of damages to such parties or any other
+                                    party, or any damages to or viruses that may
+                                    infect your computer equipment or other
+                                    property as the result of your access to the
+                                    Website or your downloading of any content
+                                    from the Website.
+                                  
+
+
+
+                                    The platform may provide links to other
+                                    third party websites. However since the
+                                    Company has no control over such third party
+                                    websites, you acknowledge and agree that the
+                                    Company is not responsible for the
+                                    availability of such third party websites,
+                                    and does not endorse and is not responsible
+                                    or liable for any content, advertising,
+                                    products or other materials on or available
+                                    from such third party websites. You further
+                                    acknowledge and agree that the Company shall
+                                    not be responsible or liable, directly or
+                                    indirectly, for any damage or loss caused or
+                                    alleged to be caused by or in connection
+                                    with use of or reliance on any such content,
+                                    goods or services available on or through
+                                    any such third party websites.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  08. Dispute Resolution and Governing Law
+                                  Provisions
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Without limiting the foregoing, under no
+                                    circumstances shall we be held liable for
+                                    any damage, loss, loss of services of App,
+                                    due to deficiency in provision of the
+                                    Services resulting directly or indirectly
+                                    from acts of nature, forces, or causes
+                                    beyond its reasonable control, including,
+                                    without limitation, internet failures,
+                                    computer equipment failures,
+                                    telecommunication equipment failures, or any
+                                    other government regulations, floods,
+                                    storms, electrical failure, civil
+                                    disturbances, riots.
+                                  
+
+
+
+                                    These Terms shall be governed by and
+                                    interpreted and construed in accordance with
+                                    the laws of India. The place of jurisdiction
+                                    shall be exclusively in New Delhi.
+                                  
+
+
+
+                                    You fully understand and agree that any
+                                    dispute arising out of or in connection with
+                                    this Agreement, including any question
+                                    regarding its existence, validity or
+                                    termination, shall be determined by
+                                    alternate dispute resolution mechanisms,
+                                    including Arbitration and / or Mediation in
+                                    accordance with the Indian Arbitration and
+                                    Mediation Laws in force at the commencement
+                                    of the dispute resolution proceedings. To
+                                    fully understand our dispute resolution
+                                    procedure, please contact us at
+                                    
+support@themoneyclub.in
+
+                                    or +91 7289822020 between 9:30 am to 6:00 pm
+                                    IST from Monday to Saturday.
+                                  
+
+
+
+                                    If any provision of these Terms is held
+                                    illegal or unenforceable, the validity,
+                                    legality and enforceability of the remaining
+                                    provisions contained herein shall not in any
+                                    way be affected or impaired thereby. Any
+                                    such provision held invalid, illegal or
+                                    unenforceable shall be substituted by a
+                                    provision of similar import reflecting the
+                                    original intent of the parties to the extent
+                                    permissible under applicable laws.
+                                  
+
+
+
+                                    We reserve the right to change, modify, add
+                                    to, or remove discounts, portions of these
+                                    Terms at any time, subject to the policies
+                                    of the Company and applicable regulations.
+                                  
+
+
+
+                                    You shall not assign or transfer any right
+                                    or obligation that has accrued to you under
+                                    these Terms, and any attempt by you to
+                                    assign or transfer such rights and
+                                    obligations, shall be null and void. We may
+                                    assign or transfer any right or obligations
+                                    that accrued in our favour, at our sole
+                                    discretion, without any restriction.
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Money Club Mobile App
+                            
+
+
+
+
+
+
+
+
+
+                            The Money Club is a company founded by ex IIT,
+                            INSEAD and UCLA alums. We have developed a mobile
+                            app that will help you solve your problem
+                          
+
+
+
+
+
+
+
+
+
+
+During times of a financial emergency
+
+
+
+                                Of low returns with FDs and risky stock markets
+                              
+
+
+Of erratic savings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Quick Links
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQs
+
+
+
+
+
+
+About
+
+
+
+
+
+
+Press
+
+
+
+
+
+
+Join A Money Club
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQs
+
+
+
+
+
+
+About
+
+
+
+
+
+
+Press
+
+
+
+
+
+
+Join A Money Club
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Learn & earn
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+Refer and Earn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+Refer and Earn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Legal
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms & Conditions
+
+
+
+
+
+
+User Agreement
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+Grievance Redressal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms & Conditions
+
+
+
+
+
+
+User Agreement
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+Grievance Redressal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interested to join a money club? click below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apply to Join
+
+
+
+                      Get funds anytime, easily!
+
+                      Join Money Club Today!
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join for FREE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Siddhant Gupta
+
+
+CEO’s Office
+
+
+
+            Siddhant is a B.A., LL.B. graduate from Jindal Global Law School,
+            Sonipat. During his time at law school, he did 10 law and marketing
+            internships with senior Supreme Court lawyers, top law firms and
+            companies, physically attended 4-credit summer courses in business
+            and international laws at Columbia University and University of
+            Oxford, and aced electives such as âChinese business &
+            Economicsâ and âPrinciples of Global Business Management &
+            Entrepreneurshipâ taught by alumni of the Stanford Graduate School
+            of Business. He joined The Money Club right out of college to
+            kickstart his entrepreneurial journey.
+          
+
+
+
+
+
+          Ã
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Kishalay Kundu
+
+
+V.P. Engineering
+
+
+
+            Kishalay is a tech innovator with a decade-plus development
+            experience in a wide variety of technologies including GPU graphics,
+            HPC applications and more recently, cloud-based fullstack
+            architectures in ecommerce, fintech etc. Kishalay is currently
+            interested in hybrid-tech-stack devops architectures that support
+            programming-language-agnostic innovations.
+
+            Kishalay’s educational journey includes stops at IIT
+            Kharagpur, Univ. Manitoba and UMBC.
+          
+
+
+
+
+
+          Ã
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Randeep Pathak
+
+
+Club Management Head
+
+
+
+            Randeep is a B.tech Civil Engineering graduate from Vellore
+            Institute of Technology, Vellore. During his academic years to gain
+            more practical knowledge and a better hands-on approach, he
+            undertook few internships beginning with a technical internship in
+            MP Government and a Marketing internship in Spectrum Medical
+            Industries. Pursuing his inclination and passion towards Management,
+            Sales and Marketing he was a core committee member of VITâs famous
+            Tech fest âGravitasâ and the Cultural fest âRivieraâ. To sum it up,
+            he has an overall work experience that amounts to over 5 years, out
+            of which 2 years of experience he gained by working as a
+            Relationship Manager at Aeronube Technology. He is currently working
+            at The Money Club as the Club Management Head since 2018.
+          
+
+
+
+
+
+          Ã
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Mahesh Ramachandra
+
+
+Advisor on Fintech
+
+
+
+
+
+              Partner, Pontaq Cross Border Innovation Fund and Leadership
+              Council Member â FinTech Centre of Excellence, Government of India
+              www.finblue.in.
+            
+
+
+
+              Founder & Chief Mentor â Commonwealth Inclusive Growth
+              Services Ltd.
+            
+
+
+
+
+
+
+
+          Ã
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Gaurav Suri
+
+
+Advisor on Capital structuring
+
+
+
+
+BTech from IIT Delhiâ99 and MBAâ07 from INSEAD.
+
+
+
+              An investment Manager of a $300m fund, Livermore Capital AG,
+              Zurich.
+            
+
+
+Previously worked with Deloitte in US.
+
+Rishi Anand
+
+
+Advisor on all things Legal
+
+
+Partner with DSK Legal.
+
+
+
+              12 years of experience in domestic and cross-border mergers and
+              acquisitions, foreign direct investments, joint ventures, general
+              corporate, restructuring and reorganisations, with a particular
+              focus on complex, high-end corporate transactions.
+            
+
+
+
+
+
+
+
+          Ã
+        
+
+
+
+Alok Nandan
+
+
+Advisor on Product Management
+
+
+
+
+
+              Alok has over a decade of product management experience in blue
+              chip companies and startups.
+            
+
+
+He is an engineer from IIT KGP, MS and PHD from UCLA.
+
+
+
+              Currently a General Partner with Emergent VC, a silicon valley
+              based venture capital firm investing in the Indi-US corridor.
+            
+
+
+
+
+
+
+
+          Ã
+
+
+Ramanna Sathyanarayana
+
+
+Advisor on Engg
+
+
+
+
+
+              He has 20+ years of experience as a Director at SAP, California.
+            
+
+
+
+              low level system software, Database, High Availability and
+              Disaster Recovery, Software Security, Distributed Computing,
+              Performance and complex application software.
+            
+
+
+Masters in Computer Science from IIT Delhi.
+
+
+
+
+Vikrant Singh
+
+
+Head of Operations
+
+
+
+            Vikrant is a bachelor of science and a truly creative person. He is
+            the first point of contact with the customers. Handling customersâ
+            queries and helping them become a part of the Money Club is his core
+            role but one can also find him working on various other roles like
+            that of a product manager. He is diligent, highly motivated and has
+            an engaging and friendly personality.
+          
+
+Surajit Ray
+
+
+CO-Founder and CTO
+
+
+
+            Surajit is an engineer from IIT Kgp. He joined Schlumberger right
+            out of college for 2 years, then worked at (Halliburton Logging
+            Services) Asia Ltd. for 1 year, and later joined Jawaharlal Nehru
+            University (JNU) as a research associate. While at JNU, he designed
+            and developed a solution in Java for predictive analytics for
+            toxicity of novel drug candidates and took part in other research
+            projects. He has been a CTO for 3 other ecommerce startups, and
+            founded Rareindianart and Aqpredict Solutions. He was the Chief
+            Architect for Apollo Munich Health Insurance for 4 years.
+
+
+          Ã
+
+Manuraj Jain
+
+
+Founder and CEO
+
+
+
+            Manuraj is an engineer from IIT Kgp and an MBA from INSEAD, France.
+            In his early days he worked for Schlumberger as an oilfield engineer
+            in the US, Middle East and India. Later he joined a start-up,
+            Intellecap in Mumbai and worked on strategy, research and capital
+            structuring for MFIs in India. Post his MBA from INSEAD he founded
+            Vinculum Capital Partners which is a Strategy and Capital advisory
+            boutique specializing in small and medium enterprises ( from 50 crs
+            to 300 crs in turnover).
+
+
+          Ã
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Does The Money Club Mobile App Work? - The Money Club
+
+
+
+
+About
+
+
+FAQ
+
+
+Blogs
+
+
+Connect with us
+
+
+ 
+ 
+Menu
+
+
+
+
+
+
+About
+
+
+FAQ
+
+
+Blogs
+
+
+Connect with us
+
+
+
+
+
+
+ 
+ 
+ 
+Join The Club
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Home
+ Â» 
+Money Club Guide
+ Â» 
+How Does The Money Club Mobile App Work?
+
+
+How Does The Money Club Mobile App Work?
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ Manuraj Jain 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ April 17, 2017 
+
+
+
+
+ 
+ Last Updated: April 10, 2024 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Curious? Want to know how Money club Mobile App works
+
+
+Weâve compiled a crisp and short note for you before you 
+download the mobile app
+ and 
+enter the club
+.
+
+
+General terms & conditions of a Money Club Mobile App
+
+
+
+
+
+
+
+
+
+
+Members required to form a club :
+ 4-20 members
+
+
+
+
+Minimum contribution per member:
+ 200 INR
+
+
+
+
+Minimum bid :
+ 1% of total club amount
+
+
+
+
+Frequency of club:
+ daily, 3 days,Â  weekly, fortnightly or monthly
+
+
+
+
+ 
+ 
+ 
+Read More
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+The Money Club App- The fastest, easiest app to secure your future
+
+
+ 
+ 
+ 
+Start today
+ 
+ 
+
+
+
+
+
+
+Currently all the clubs are formed by the Money Club Team only. We take verified members in a club based on their profile and their transaction history on the platform.
+
+
+
+
+
+
+Part 01
+
+
+ Getting started with the Money Club app
+
+
+
+
+
+
+
+
+
+
+
+
+Part 02
+
+
+ Forming a Money Club
+
+
+
+
+
+
+
+
+Part 03
+
+
+ Activating Club, Bidding and Money-Making
+
+
+
+
+
+
+
+
+Save Or Borrow Money Hassle Free With India’s 1st Digital P2P Savings PlatformÂ  Â 
+
+
+ 
+ 
+ 
+JOIN the MONEY CLUB
+ 
+ 
+
+
+
+
+
+
+
+
+The Frequently asked questions
+
+
+ Q. What happens if someone defaults?
+
+
+Ans. 
+ The Money Club replaces the defaulter with one of the Money Club team members to continue the club. In the background, we follow our debt recovery protocol to recover the funds from the defaulter. Repercussions of default are given in 
+this blog.
+
+
+ Q. What if no one bids for the money?
+
+
+ 
+Ans. 
+If no one bids in the first one minute of the live bidding countdown, the Money club app would run an algorithm to identify a member randomly. It will then bid the minimum bid amount (1% of the pool amount) on his/her behalf to start the bid. Bidding can then proceed normally post that. We call this feature AUTO BID.
+
+
+ Q. How to transfer the money after a bid ends?
+
+
+Ans. 
+Users only need to make a commitment when they join a club on the app. This doesnât require them to transfer funds at that time. After the bidding, a winner is declared based on the highest bid amount. The club members get a popup in the Money Club mobile app, showing the details of the winner (UPI ID, bank account details, amount to be paid to the winner, etc.). Members can directly transfer the funds from their bank account to the winnerâs bank account. They also need to update the transaction ID in the Money Club app immediately after making the payment.
+
+
+ Q. What is the amount charged by Money Club?
+
+
+Ans. 
+Commission
+
+
+
+
+This new commission structure is applicable for the clubs formed under the terms and conditions version 8 and above.
+
+
+
+
+The commission of every user will be calculated based on the tables below and it is the percentage of the 
+total pooled club amount
+. (For example â If a userâs current commission is 2% and he participates in a club of 10,000 INR pooled amount, then he would pay 200 INR as commission to The Money Club when he wins the round.)
+
+
+
+
+
+
+The commission for the Pilot club is fixed at 
+15 INR. 
+Applicable for the pilot clubs formed under the terms and conditions version 9 and above.
+
+
+
+
+The commission will be taken as the average of the three factors â 
+Real closed clubs, contribution amount & weighted average transfer time.
+
+
+
+
+The commission(%) will keep on changing and it ranges from [4.0 â 0.5] % depending on these three factors.
+
+
+
+
+
+
+Get Money When You Need It The Most
+
+
+ 
+ 
+ 
+JOIN the MONEY CLUB
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Real Clubs Closed
+
+
+Commission(%)
+
+
+
+
+
+
+0-3
+
+
+4
+
+
+
+
+
+
+4-6
+
+
+2.5
+
+
+
+
+
+
+7-9
+
+
+2.25
+
+
+
+
+
+
+10-11
+
+
+2
+
+
+
+
+
+
+12-15
+
+
+1
+
+
+
+
+
+
+16-20
+
+
+0.75
+
+
+
+
+
+
+20+
+
+
+0.5
+
+
+
+
+
+
+
+
+
+
+Contribution amount(INR)*
+
+
+Commission(%)
+
+
+
+
+
+
+0-20000
+
+
+4
+
+
+
+
+
+
+20001-35000
+
+
+3.5
+
+
+
+
+
+
+35001-75000
+
+
+2.5
+
+
+
+
+
+
+75001-100000
+
+
+2
+
+
+
+
+
+
+100001-150000
+
+
+1
+
+
+
+
+
+
+150001-200000
+
+
+0.75
+
+
+
+
+
+
+200001+
+
+
+0.5
+
+
+
+
+
+
+
+
+
+
+Wt Avg Transfer Time (Hours)**
+
+
+Commission(%)
+
+
+
+
+
+
+24+
+
+
+4
+
+
+
+
+
+
+18.1-24
+
+
+3.5
+
+
+
+
+
+
+10.1-18
+
+
+3
+
+
+
+
+
+
+6.1-10
+
+
+2
+
+
+
+
+
+
+3.1-6
+
+
+1.5
+
+
+
+
+
+
+1.1-3
+
+
+1
+
+
+
+
+
+
+0-1
+
+
+0.5
+
+
+
+
+
+
+ 
+For example
+ â If a user has closed 
+4
+ real clubs whose total contribution amount is 
+22000 INR
+ & weighted average transfer time is 
+1.5 hours
+, then his commission would be â
+
+
+Commission(%) = (2.5+3.5+1)/3 = 
+2.33 %
+ (Refer above tables to understand the calculations)
+
+
+Contribution amount = Contribution amount paid by user in every round + Money Club credits used by user 
++ Winning bid amount by user in club + Penalty paid by user to Money club + Commission paid by user to Money club
+
+
+ 
+Weighted average transfer time
+
+
+
+
+ Your recent transactions have more weightage than the earlier transactions. So if you want to improve your weighted average transfer time, then try to complete your upcoming transactions at the earliest and your weighted average transfer time will improve faster.
+
+
+ For example, suppose there are total 5 transactions. The 1st transactionâs weight is taken as 1 and itâs multiplied by the transfer time. The 2nd transactionâs weight is taken as 2 & so on and it will be divided by n(n+1)/2 where n is the number of your transactions.
+
+
+ 1st transaction transfer time  = 12 Hours
+2nd transaction transfer time = 10 Hours
+3rd transaction transfer time = 4 Hours
+4th transaction transfer time = 2 Hours
+5th transaction transfer time = 1 Hour
+
+
+ Weighted average transfer time = 12*1 + 10*2 + 4*3 + 2*4 + 5*1 / 5(5+1)/2 = 
+3.8 Hrs
+
+
+
+
+ Q. Where and how does the bidding takes place?
+
+
+ 
+Ans. 
+Bidding takes place in the Money Club app. All the club members can join live bidding by logging in to the Money Club app. Bidding window also allows the club members to chat.
+
+
+ 
+ 
+ 
+Read More
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Posts
+
+
+
+
+
+
+Enhancing Your Experience: Scheduled Maintenance Notice
+
+
+
+
+à¤¸à¤°à¥à¤µà¤¶à¥à¤°à¥à¤·à¥à¤  à¤¬à¤à¤¤ à¤µà¤¿à¤à¤²à¥à¤ª: à¤à¥à¤¯à¤¾ à¤¬à¤à¤¤ à¤à¤¾à¤¤à¥ à¤²à¤¾à¤­à¤¦à¤¾à¤¯à¤ à¤¹à¥à¤?
+
+
+
+
+à¤°à¥à¤«à¤°à¤² à¤ªà¥à¤°à¥à¤à¥à¤°à¤¾à¤® à¤à¥ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥ à¤°à¥à¤à¤¼à¤¾à¤¨à¤¾ à¤°à¥à¤«à¤¼à¤° à¤à¤°à¥à¤ à¤à¤° 500 à¤°à¥à¤ªà¤¯à¥ à¤à¤®à¤¾à¤à¤
+
+
+
+
+à¤®à¥à¤à¥ à¤¤à¤¤à¥à¤à¤¾à¤² à¤²à¥à¤¨ à¤à¤¾à¤¹à¤¿à¤? à¤à¤® à¤¬à¥à¤¯à¤¾à¤ à¤¦à¤°à¥à¤ à¤ªà¤° à¤«à¤à¤¡ à¤à¥à¤¸à¥ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤°à¥à¤?
+
+
+
+
+Best Saving Options: Are Savings Accounts Profitable?
+
+
+
+
+Popular Posts
+
+
+Get Funds In Times Of Crisis
+
+
+The Smartest Saving
+
+
+and Borrowing Tool
+
+
+ 
+ 
+ 
+Join For Free!
+ 
+ 
+
+
+
+
+
+
+Recent Posts
+
+
+
+
+ 
+Enhancing Your Experience: Scheduled Maintenance Notice
+
+
+
+
+ 
+à¤¸à¤°à¥à¤µà¤¶à¥à¤°à¥à¤·à¥à¤  à¤¬à¤à¤¤ à¤µà¤¿à¤à¤²à¥à¤ª: à¤à¥à¤¯à¤¾ à¤¬à¤à¤¤ à¤à¤¾à¤¤à¥ à¤²à¤¾à¤­à¤¦à¤¾à¤¯à¤ à¤¹à¥à¤?
+
+
+
+
+ 
+à¤°à¥à¤«à¤°à¤² à¤ªà¥à¤°à¥à¤à¥à¤°à¤¾à¤® à¤à¥ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥ à¤°à¥à¤à¤¼à¤¾à¤¨à¤¾ à¤°à¥à¤«à¤¼à¤° à¤à¤°à¥à¤ à¤à¤° 500 à¤°à¥à¤ªà¤¯à¥ à¤à¤®à¤¾à¤à¤
+
+
+
+
+ 
+à¤®à¥à¤à¥ à¤¤à¤¤à¥à¤à¤¾à¤² à¤²à¥à¤¨ à¤à¤¾à¤¹à¤¿à¤? à¤à¤® à¤¬à¥à¤¯à¤¾à¤ à¤¦à¤°à¥à¤ à¤ªà¤° à¤«à¤à¤¡ à¤à¥à¤¸à¥ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤°à¥à¤?
+
+
+
+
+ 
+Best Saving Options: Are Savings Accounts Profitable?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+Money Club Mobile App
+
+
+ The Money Club is a company founded by ex IIT, INSEAD and UCLA alums. We have developed a mobile app that will help you solve your problem
+
+
+
+
+During times of a financial emergency
+
+
+Of low returns with FDs and risky stock markets
+
+
+Of erratic savings
+
+
+
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+
+FAQs
+
+
+About
+
+
+Press
+
+
+Join A Money Club
+
+
+Contact Us
+
+
+
+
+FAQs
+
+
+About
+
+
+Press
+
+
+Join A Money Club
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+Learn & earn
+
+
+
+
+
+
+Blog
+
+
+Refer and Earn
+
+
+
+
+Blog
+
+
+Refer and Earn
+
+
+
+
+
+
+
+
+
+
+
+
+Legal
+
+
+
+
+
+
+Terms & Conditions
+
+
+User Agreement
+
+
+Privacy Policy
+
+
+Grievance Redressal
+
+
+
+
+Terms & Conditions
+
+
+User Agreement
+
+
+Privacy Policy
+
+
+Grievance Redressal
+
+
+
+
+
+
+
+
+
+
+
+
+interested to join a money club? click below
+
+
+ 
+ 
+ 
+Apply to Join
+ 
+ 
+
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Â© Moneyclub Technologies PrivateÂ Limited
+
+
+ 
+ 
+ 
+Twitter
+ 
+ 
+ 
+ 
+ 
+ 
+Facebook
+ 
+ 
+ 
+ 
+ 
+ 
+Youtube
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+Get funds anytime, easily!
+ Join Money Club Today!
+
+
+ 
+ 
+ 
+Join for FREE!
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Siddhant Gupta
+
+
+CEO’s Office
+
+
+Siddhant is a B.A., LL.B. graduate from Jindal Global Law School, Sonipat. During his time at law school, he did 10 law and marketing internships with senior Supreme Court lawyers, top law firms and companies, physically attended 4-credit summer courses in business and international laws at Columbia University and University of Oxford, and aced electives such as âChinese business & Economicsâ and âPrinciples of Global Business Management & Entrepreneurshipâ taught by alumni of the Stanford Graduate School of Business. He joined The Money Club right out of college to kickstart his entrepreneurial journey.
+
+
+ 
+ Ã 
+
+
+
+
+
+
+
+
+Kishalay Kundu
+
+
+V.P. Engineering
+
+
+Kishalay is a tech innovator with a decade-plus development experience in a wide variety of technologies including GPU graphics, HPC applications and more recently, cloud-based fullstack architectures in ecommerce, fintech etc. Kishalay is currently interested in hybrid-tech-stack devops architectures that support programming-language-agnostic innovations.
+ Kishalay’s educational journey includes stops at IIT Kharagpur, Univ. Manitoba and UMBC.
+
+
+ 
+ Ã 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fintech startup The Money Club raises $1.7M from SOSV and Venture Catalysts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Subscribe
+            
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+                    Login
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join DQ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Sign In with Google
+                            
+
+
+
+
+
+
+
+
+
+                                Sign In with Facebook
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Sign in with Email
+                            
+
+
+
+
+
+
+
+
+
+
+By clicking the button, I accept the Terms of Use of the service and its 
+Privacy Policy
+, as well as consent to the processing of personal data.
+
+
+
+
+
+
+Don’t have an account? 
+Signup
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bookmarks
+
+
+My Profile
+
+
+Log Out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    NEWS
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    LEADERSHIP INSIGHTS
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interview
+
+
+
+
+
+
+
+
+
+
+
+
+Opinion
+
+
+
+
+
+
+
+
+
+
+
+
+Editors Blog
+
+
+
+
+
+
+
+
+
+
+
+
+Features
+
+
+
+
+
+
+
+
+
+
+
+
+DQ40YEARS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    BUSINESS TECHNOLOGIES
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    DATA & AI
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    ESDM
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    UPSKILLING
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    BUSINESS SOLUTIONS
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    MORE
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annuals
+
+
+
+
+
+
+
+
+
+
+
+
+Reviews
+
+
+
+
+
+
+
+
+
+
+
+
+DQDEEPTECH
+
+
+
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+
+
+Tech4Growth
+
+
+
+
+
+
+
+
+
+
+
+
+DQConclave
+
+
+
+
+
+
+
+
+
+
+
+
+TechSchools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Magazine
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News 
+
+
+
+
+
+
+Business Technologies 
+
+
+
+
+
+
+DQDeepTech 
+
+
+
+
+
+
+Annuals 
+
+
+
+
+
+
+Events 
+
+
+
+
+
+
+Business Solutions 
+
+
+
+
+
+
+Interview 
+
+
+
+
+
+
+Module 
+
+
+
+
+
+
+Editors Blog 
+
+
+
+
+
+
+Opinion 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Powered by :
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        You have successfully subscribed the newsletter.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                DQDeepTech
+                            
+
+
+
+
+
+
+
+
+
+
+Fintech startup The Money Club raises $1.7M from SOSV and Venture Catalysts
+                        
+
+
+
+
+
+
+The startup has created a money pooling engine where users from all over the country get verified and matched into groups where they start their gamified money clubbing journey with other verified peers from small pooled amounts to bigger pooled amounts based on their behaviour on the platform.
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DQINDIA Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    30 Sep 2021 04:37 IST
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Update
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOSV, a global VC fund and Venture Catalysts, invest in The Money Club, a fintech startup that has built an AI-based P2P Group Savings Platform to enable the lower-middle-class population to save, borrow and invest digitally. The Pre-Series A round saw participation from other investors including Blume Founders’ Fund, LetsVenture, Keiretsu Forum, Rockstud Capital, Astarc Ventures, and LIV Advisors.
+
+
+Advertisment
+
+
+
+
+
+
+Founded by IIT Kharagpur friends, Manuraj Jain and Surajit Ray, The Money Club leverages AI algorithms to effectively underwrite high frequency, micro pooling of funds by studying user behaviours. Acting as an artificially intelligent chit fund cashier in the form of an android app, the startup delivers a higher value proposition to savers, investors, as well as borrowers compared to all other available options in the market. With the fresh infusion of capital, The Money Club aims to disrupt India’s largely unorganized $50bn chit fund sector and bring greater security and transparency.
+
+
+Speaking on the fund raise, Manuraj Jain, Founder and CEO of The Money Club, said, ‘’Users have been pooling money for over 700 years and this market has been growing 15% CAGR for the last 10 years. High onboarding barriers and lack of innovation in Savings products, has driven 180m in India to resort to pooling funds illegally in the form of committees, beesi, chitty and chit funds and expose themselves to fraud and loss of their hard earned money.
+
+
+Our vision is to make a Savings product that is relevant, lucrative, safe, secure and transparent for over 40Cr low middle income people of India. We want to build the world’s largest AI embedded Money pooling platform from Bharat. An overwhelming response from our users and getting oversubscribed in this round by our investors provide us with the fillip to grow faster."
+
+
+Advertisment
+
+
+
+
+
+
+William Bao Bean, General Partner at SOSV, shares,  "Money Club has been a pioneer in fostering economic empowerment through its solution, bringing trust and transparency to financial transactions for millions of people in India. We're impressed with the team's relentless focus in tackling this multi-billion opportunity: Money Club's AI-enabled underwriting model is a game-changer that will streamline capital flows for the whole nation".
+
+
+“Peer to Peer lending and Money Pooling clubs have been a part of society for generations now albeit in a unorganised format that’s prone to cheating and vulnerable to being influenced by certain powerful members. What we loved is that 'The Money Club' enables this phenomena with a secure and seamless digital platform thereby providing numerous people with an instrument to save and borrow funds when they need to, without any hassle! We believe Bharat is ready for this age-old practice to be available at their fingertips,” said Sarita Raichura, Blume Founders’ Fund.
+
+
+“We are very excited to be backing the Money Club team. They are bringing an age-old system of how people help each other with money for their needs into the digital age, with a model which works very well. We are truly excited to be a part of money clubs journey ahead and play our part in helping them achieve their vision,” said Salil Musale, Managing Director, Astarc Ventures.
+
+
+Advertisment
+
+
+
+
+
+
+“Chit funds are one of the oldest forms of borrowing platforms for people who were excluded from the formal financial system. However, they are highly unorganized and are ripe for technological disruption. Money Club is at the forefront driving this change with the use of technology and making its services more transparent and reliable compared to traditional chit fund companies.” said Abhishek Agarwal, Managing Partner at Rockstud Capital.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our Newsletter!
+
+
+
+              Be the first to get exclusive offers and the latest news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
+                                Related Articles
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Read the Next Article
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our Newsletter!
+
+
+
+              Be the first to get exclusive offers and the latest news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Latest Stories
+            
+
+
+
+
+
+
+
+              Latest Stories
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+           Powered by
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our Newsletter!
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Subscribe Now
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+            Powered by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Select Language
+                
+
+
+
+
+
+                        English
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Share this article
+
+
+
+                        If you liked this article share it with your friends.
+they will thank you later
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Whatsapp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copied!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+404 - Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRO Exclusives
+
+
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Free Newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+Corporate Subscription
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+IND
+MEA
+VENTURE CAPITAL
+PRIVATE EQUITY
+M&A
+CREDIT
+INDUSTRY
+FINANCE
+CONSUMER
+HEALTHCARE
+INFRASTRUCTURE
+TMT
+MANUFACTURING
+REAL ESTATE
+PEOPLE
+LP CORNER
+INTERNATIONAL
+STARTUPS
+INSIGHTS FOCUS
+Advertisement
+GO TO HOMEPAGE
+FOLLOW US
+ABOUT US
+ADVERTISE WITH US
+CONTACT US
+ COPYRIGHT
+PRIVACY POLICY
+ TERMS OF USE
+COMPANY LISTING
+TAG LISTING
+RESOURCE LIBRARY
+OUR PRODUCTS
+TECHCIRCLE
+VCCEDGE
+EVENTS
+TRAINING
+SALESEDGE
+EDGE INSIGHTS
+BECOME A 
+PREMIUM MEMBER
+PREMIUM
+DOWNLOAD OUR APP
+Insights Focus is a marketing initiative for posts. No VCCircle / TechCircle journalist was involved in the creation of this content.
+Copyright @ 
+2025
+ VCCircle.com. Property of Mosaic Media Ventures Pvt. Ltd., a part of Mosaic Digital, a 100% subsidiary of
+ 
+HT Media Limited
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ SOSV and Venture Catalysts lead pre-Series A round in The Money Club
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Subscribe
+            
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+                    Login
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join Entrackr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Sign In with Google
+                            
+
+
+
+
+
+
+
+
+
+                                Sign In with Facebook
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Sign in with Email
+                            
+
+
+
+
+
+
+
+
+
+
+By clicking the button, I accept the 
+Terms of Use of the service
+ and its 
+Privacy Policy
+, as well as consent to the processing of personal data.
+
+
+
+
+
+
+Don’t have an account? 
+Signup
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bookmarks
+
+
+My Profile
+
+
+Log Out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    News
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    EXCLUSIVE
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    FINTRACKR
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    REPORTS
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    SNIPPETS
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    OTHERS
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESOPTrackr
+
+
+
+
+
+
+
+
+
+
+
+
+Policy
+
+
+
+
+
+
+
+
+
+
+
+
+Meet The Authors
+
+
+
+
+
+
+
+
+
+
+
+
+TELL YOUR TALE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Stories 
+
+
+
+
+
+
+Fintrackr 
+
+
+
+
+
+
+News 
+
+
+
+
+
+
+Report 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        You have successfully subscribed the newsletter.
+    
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Snippets
+                            
+
+
+
+
+
+
+
+
+
+
+SOSV and Venture Catalysts lead pre-Series A round in The Money Club
+                        
+
+
+
+
+
+
+AI-based chit fund chaier app, The Money Club, has raised $1.7 million in its pre-Series A round led by SOSV and Venture Catalysts.
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shashank Pathak
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    28 Sep 2021 09:19 IST
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Update
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P2P group savings platform The Money Club has raised $1.7 million in its pre-Series A round led by SOSV and Venture Catalysts. Blume Founders’ Fund, LetsVenture, Keiretsu Forum, Rockstud Capital, Astarc Ventures and LIV Advisors Ltd have also participated in the round.
+
+
+According to The Money Club, the fresh capital will be used to bolster its technology platform and operations.
+
+
+Founded by Manuraj Jain and Surajit Ray, the fintech startup has built an AI-based P2P Group Savings Platform to enable the lower-middle-class population to save, borrow and invest digitally. It leverages advanced machine learning algorithms to bring transparency into online money club groups.
+
+
+The
+ 
+platform
+ claims to have acquired over 200,000 users and has grown 500% in the last
+ 
+12 months. Its users have pooled around Rs 40 crore by forming 17,000 money clubs on
+ 
+the platform till date.
+
+
+
+
+
+
+
+
+
+                                    The Money Club
+
+
+
+                                    funding
+
+
+
+                                    Venture Catalyst
+
+
+
+                                    SOSV
+
+
+
+
+
+
+Disclaimer:
+
+
+Bareback Media has recently raised funding from a group of investors. Some of the investors may directly or indirectly be involved in a competing business or might be associated with other companies we might write about. This shall, however, not influence our reporting or coverage in any manner whatsoever. You may find a list of our investors 
+here
+.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our Newsletter!
+
+
+
+              Be the first to get exclusive offers and the latest news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
+                                Related Articles
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Read the Next Article
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our Newsletter!
+
+
+
+              Be the first to get exclusive offers and the latest news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our Newsletter!
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Subscribe Now
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Select Language
+                
+
+
+
+
+
+                        English
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Share this article
+
+
+
+                        If you liked this article share it with your friends.
+they will thank you later
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Whatsapp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copied!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       To access complete data, visit
+
+
+https://thekredible.com/company/classplus/financials
+
+
+View Full Data
+
+
+
+
+
+
+
+
+Fetch New URL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
