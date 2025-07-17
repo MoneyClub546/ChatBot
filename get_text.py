@@ -1,18 +1,21 @@
 import requests
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader
-from openai import OpenAI
+from groq import Groq
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import chromadb
 from chromadb.config import Settings
 from bs4 import BeautifulSoup
+import os
 
+groq_api = os.getenv("GROQ_API")
 
-client = OpenAI(
-    api_key="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",
-    base_url = "https://api.groq.com/openai/v1",
+client = Groq(
+     api_key=groq_api,
+     model="llama-3.1-8b-instant",
 )
+
 
 chroma_client = chromadb.PersistentClient(path="./chroma")
 chroma_collection = chroma_client.get_or_create_collection(name="money_club")
