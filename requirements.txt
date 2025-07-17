@@ -1,0 +1,8 @@
+flask
+langchain
+langchain-community
+langchain-groq
+huggingface-hub
+chromadb
+groq
+scikit-learn
