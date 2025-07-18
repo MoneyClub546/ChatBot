@@ -6,3 +6,4 @@ huggingface-hub
 chromadb
 groq
 scikit-learn
+bs4
