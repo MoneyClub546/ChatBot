@@ -44,8 +44,12 @@ def preprocess_and_upsert(text, chunk_size=500):
     print(f"✅ Upserted {len(chunks)} chunks to Chroma DB.")
     return vectorstore
 
-vectorstore = preprocess_and_upsert(text=content)
+# vectorstore = preprocess_and_upsert(text=content)
 user_sessions = {}
+vectorstore = Chroma(
+    persist_directory="./chatbot_chroma",
+    embedding_function=embedding
+)
 
 @app.post("/webhook")
 def whatsapp_webhook( Body: str = Form(...),From: str = Form(...)):
