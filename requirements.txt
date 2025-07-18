@@ -5,7 +5,7 @@ langchain-groq
 # huggingface-hub
 chromadb
 groq
-# scikit-learn
+scikit-learn
 bs4
 # sentence-transformers
 fastapi
