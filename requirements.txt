@@ -12,3 +12,4 @@ fastapi
 uvicorn
 cohere
 langchain-cohere
+python-multipart
