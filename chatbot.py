@@ -1,4 +1,4 @@
-from flask import Flask, request
+from fastapi import FastAPI,Request,Form
 # from twilio.twiml.messaging_response import MessagingResponse
 from langchain_groq import ChatGroq
 from langchain.chains import ConversationalRetrievalChain
@@ -14,7 +14,7 @@ import os
 
 embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
 
-app = Flask(__name__)
+app = FastAPI()
 
 groq_api = os.getenv("GROQ_API")
 
@@ -47,10 +47,11 @@ def preprocess_and_upsert(text, chunk_size=500):
 vectorstore = preprocess_and_upsert(text=content)
 user_sessions = {}
 
-@app.route("/webhook", methods=["POST"])
-def whatsapp_webhook():
-    incoming_msg = request.values.get('Body', '')
-    sender = request.values.get('From', '')
+@app.post("/webhook")
+def whatsapp_webhook( Body: str = Form(...),From: str = Form(...)):
+    incoming_msg = Body
+    sender = From
+
 
     custom_prompt_template = PromptTemplate(
             input_variables=["context", "question"],
@@ -92,5 +93,3 @@ def whatsapp_webhook():
     # twilio_resp.message(response)
     # return str(twilio_resp)
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0",port=5000)
