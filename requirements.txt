@@ -2,12 +2,13 @@ flask
 langchain
 langchain-community
 langchain-groq
-huggingface-hub
+# huggingface-hub
 chromadb
 groq
-scikit-learn
+# scikit-learn
 bs4
-sentence-transformers
+# sentence-transformers
 fastapi
 uvicorn
+cohere
 langchain-cohere

@@ -5,7 +5,7 @@ from langchain.chains import ConversationalRetrievalChain
 # from langchain.memory import ConversationBufferMemory
 from langchain.memory.buffer import ConversationBufferMemory
 from get_text import preprocess_and_upsert
-from langchain_community.embeddings import HuggingFaceEmbeddings
+# from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.schema import Document
 from langchain_community.vectorstores.chroma import Chroma
 from langchain.prompts import PromptTemplate
