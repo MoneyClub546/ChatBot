@@ -13,7 +13,6 @@ groq_api = os.getenv("GROQ_API")
 
 client = Groq(
      api_key=groq_api,
-     model="llama-3.1-8b-instant",
 )
 
 
