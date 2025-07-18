@@ -10,9 +10,33 @@ from langchain.schema import Document
 from langchain_community.vectorstores.chroma import Chroma
 from langchain.prompts import PromptTemplate
 import os
+import cohere
+from langchain_core.embeddings import Embeddings
 
 
-embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
+class CohereEmbedding(Embeddings):
+    def __init__(self, cohere_api_key: str):
+        self.client = cohere.Client(cohere_api_key)
+
+    def embed_documents(self, texts):
+        response = self.client.embed(
+            texts=texts,
+            model="embed-english-v3.0",
+            input_type="search_document"
+        )
+        return response.embeddings
+
+    def embed_query(self, text):
+        response = self.client.embed(
+            texts=[text],
+            model="embed-english-v3.0",
+            input_type="search_query"
+        )
+        return response.embeddings[0]
+
+
+# embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
+embedding = CohereEmbedding(cohere_api_key=os.getenv("COHERE"))
 
 app = FastAPI()
 
@@ -44,12 +68,12 @@ def preprocess_and_upsert(text, chunk_size=500):
     print(f"✅ Upserted {len(chunks)} chunks to Chroma DB.")
     return vectorstore
 
-# vectorstore = preprocess_and_upsert(text=content)
+vectorstore = preprocess_and_upsert(text=content)
 user_sessions = {}
-vectorstore = Chroma(
-    persist_directory="./chatbot_chroma",
-    embedding_function=embedding
-)
+# vectorstore = Chroma(
+#     persist_directory="./chatbot_chroma",
+#     embedding_function=embedding
+# )
 
 @app.post("/webhook")
 def whatsapp_webhook( Body: str = Form(...),From: str = Form(...)):
@@ -64,7 +88,7 @@ def whatsapp_webhook( Body: str = Form(...),From: str = Form(...)):
 
         Instructions:
         - Reply hamesha Hinglish mein dena (Hindi + English mix).
-        - Tone friendly aur casual honi chahiye.
+        - Tone friendly aur casual honi chahiye but not disrespectful and in a casual way.
         - Bina context ke guess mat lagana.
 
         Context:
@@ -92,8 +116,5 @@ def whatsapp_webhook( Body: str = Form(...),From: str = Form(...)):
     chain = user_sessions[sender]
     response = chain.invoke({"question": incoming_msg})
     return response["answer"]
-    # Return to WhatsApp
-    # twilio_resp = MessagingResponse()
-    # twilio_resp.message(response)
-    # return str(twilio_resp)
+
 

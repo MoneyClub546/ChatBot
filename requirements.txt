@@ -10,3 +10,4 @@ bs4
 sentence-transformers
 fastapi
 uvicorn
+langchain-cohere
