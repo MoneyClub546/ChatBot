@@ -7,3 +7,4 @@ chromadb
 groq
 scikit-learn
 bs4
+sentence-transformers
