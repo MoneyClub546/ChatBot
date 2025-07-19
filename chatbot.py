@@ -78,6 +78,7 @@ vectorstore = Chroma(
 @app.post("/webhook")
 async def whatsapp_webhook( request:Request):
     data = await request.json()
+    print(data)
     incoming_msg = data.get("message")
     sender = data.get("sender")
 
