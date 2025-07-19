@@ -79,8 +79,10 @@ vectorstore = Chroma(
 async def whatsapp_webhook( request:Request):
     data = await request.json()
     print(data)
-    incoming_msg = data.get("message")
-    sender = data.get("sender")
+    message_data = data.get("data", {}).get("message", {})
+
+    sender = message_data.get("phone_number")
+    incoming_msg = message_data.get("message_content", {}).get("text")
 
     custom_prompt_template = PromptTemplate(
             input_variables=["context", "question"],
