@@ -12,7 +12,7 @@ from langchain.prompts import PromptTemplate
 import os
 import cohere
 from langchain_core.embeddings import Embeddings
-
+from get_text import send_custom_messages
 
 class CohereEmbedding(Embeddings):
     def __init__(self, cohere_api_key: str):
@@ -68,18 +68,18 @@ def preprocess_and_upsert(text, chunk_size=500):
     print(f"✅ Upserted {len(chunks)} chunks to Chroma DB.")
     return vectorstore
 
-vectorstore = preprocess_and_upsert(text=content)
+# vectorstore = preprocess_and_upsert(text=content)
 user_sessions = {}
-# vectorstore = Chroma(
-#     persist_directory="./chatbot_chroma",
-#     embedding_function=embedding
-# )
+vectorstore = Chroma(
+    persist_directory="./chatbot_chroma",
+    embedding_function=embedding
+)
 
 @app.post("/webhook")
-def whatsapp_webhook( Body: str = Form(...),From: str = Form(...)):
-    incoming_msg = Body
-    sender = From
-
+async def whatsapp_webhook( request:Request):
+    data = await request.json()
+    incoming_msg = data.get("message")
+    sender = data.get("sender")
 
     custom_prompt_template = PromptTemplate(
             input_variables=["context", "question"],
@@ -115,6 +115,7 @@ def whatsapp_webhook( Body: str = Form(...),From: str = Form(...)):
     # Use existing user chain
     chain = user_sessions[sender]
     response = chain.invoke({"question": incoming_msg})
+    send_custom_messages(message=response["answer"],phone=sender)
     return response["answer"]
 
 
