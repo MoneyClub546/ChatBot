@@ -175,5 +175,11 @@ def main():
         message = summarize_with_llm(prompt=problem,chunk=query_most_relevant_chunk(problem),name=name)
         send_custom_messages(message=message,phone="919640094070")
 
-
-
+def send_messages(problems,names,phones):
+    with open("data.txt","r") as f:
+        content = f.read()
+    preprocess_and_upsert(text=content)
+    for problem,name,phones in zip(problems,names,phones):
+        message = summarize_with_llm(prompt=problem,chunk=query_most_relevant_chunk(problem),name=name)
+        send_custom_messages(message=message,phone="919640094070")
+    

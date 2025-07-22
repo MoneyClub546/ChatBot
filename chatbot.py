@@ -12,7 +12,8 @@ from langchain.prompts import PromptTemplate
 import os
 import cohere
 from langchain_core.embeddings import Embeddings
-from get_text import send_custom_messages
+from get_text import send_custom_messages,send_messages
+from datetime import datetime, timedelta, timezone
 
 class CohereEmbedding(Embeddings):
     def __init__(self, cohere_api_key: str):
@@ -121,4 +122,18 @@ async def whatsapp_webhook( request:Request):
     send_custom_messages(message=response["answer"],phone=sender)
     return response["answer"]
 
+@app.post("/send_messages")
+async def send_msgs_app(request:Request):
+    data = await request.json()
+    problems = data.get("problems")
+    names = data.get("names")
+    phones = data.get("phones")
+    delivered_at = data.get("data", {}).get("message", {}).get("delivered_at")
+    delivered_time = datetime.fromtimestamp(delivered_at / 1000, tz=timezone.utc)
+    five_minutes_ago = datetime.now(timezone.utc) - timedelta(minutes=5)
+    if delivered_time >= five_minutes_ago:
+        send_messages(problems, names, phones)
+        return {"status": "messages sent"}
+    else:
+        return {"status": "message too old, not sending"}
 
