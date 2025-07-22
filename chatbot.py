@@ -138,6 +138,6 @@ async def send_msgs_app(request:Request):
     send_messages(problems,names,phones)
 
 
-@app.get("/ping")
+@app.get("/")
 def ping():
     return {"status": "alive"}
