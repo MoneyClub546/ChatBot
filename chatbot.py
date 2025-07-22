@@ -119,7 +119,13 @@ async def whatsapp_webhook( request:Request):
     # Use existing user chain
     chain = user_sessions[sender]
     response = chain.invoke({"question": incoming_msg})
-    send_custom_messages(message=response["answer"],phone=sender)
+    delivered_at = data.get("data", {}).get("message", {}).get("delivered_at")
+    delivered_time = datetime.fromtimestamp(delivered_at / 1000, tz=timezone.utc)
+    five_minutes_ago = datetime.now(timezone.utc) - timedelta(minutes=5)
+    if delivered_time >= five_minutes_ago and incoming_msg:
+        send_custom_messages(message=response["answer"],phone=sender)
+        print({"status": "messages sent"})
+
     return response["answer"]
 
 @app.post("/send_messages")
@@ -128,12 +134,4 @@ async def send_msgs_app(request:Request):
     problems = data.get("problems")
     names = data.get("names")
     phones = data.get("phones")
-    delivered_at = data.get("data", {}).get("message", {}).get("delivered_at")
-    delivered_time = datetime.fromtimestamp(delivered_at / 1000, tz=timezone.utc)
-    five_minutes_ago = datetime.now(timezone.utc) - timedelta(minutes=5)
-    if delivered_time >= five_minutes_ago:
-        send_messages(problems, names, phones)
-        return {"status": "messages sent"}
-    else:
-        return {"status": "message too old, not sending"}
-
+    send_messages(problems,names,phones)
