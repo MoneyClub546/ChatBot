@@ -136,3 +136,8 @@ async def send_msgs_app(request:Request):
     names = data.get("names")
     phones = data.get("phones")
     send_messages(problems,names,phones)
+
+
+@app.get("/ping")
+def ping():
+    return {"status": "alive"}
