@@ -125,8 +125,9 @@ async def whatsapp_webhook( request:Request):
     if delivered_time >= five_minutes_ago and incoming_msg:
         send_custom_messages(message=response["answer"],phone=sender)
         print({"status": "messages sent"})
-
-    return response["answer"]
+        return response["answer"]
+    else:
+        return "Time not now"
 
 @app.post("/send_messages")
 async def send_msgs_app(request:Request):
