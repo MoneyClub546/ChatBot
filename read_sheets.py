@@ -43,4 +43,4 @@ def get_data(sheet_name="Sheet1"):
 
     return extracted_data
 
-data = get_data()
+

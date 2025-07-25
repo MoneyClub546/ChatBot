@@ -5,7 +5,7 @@ from langchain.chains import ConversationalRetrievalChain
 # from langchain.memory import ConversationBufferMemory
 from langchain.memory.buffer import ConversationBufferMemory
 from get_text import preprocess_and_upsert
-# from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.schema import Document
 from langchain_community.vectorstores.chroma import Chroma
 from langchain.prompts import PromptTemplate
@@ -91,10 +91,17 @@ async def whatsapp_webhook( request:Request):
         Tum ek helpful assistant ho jo WhatsApp users ki madad karta hai.
 
         Instructions:
-        - Reply hamesha Hinglish mein dena (Hindi + English mix).
-        - Tone friendly aur casual honi chahiye but not disrespectful and in a casual way.
-        - Bina context ke guess mat lagana.
+        Hamari company ek online chit fund platform hai. Humne notice kiya hai ki kai users registration ke baad hamari services ka actively use nahi karte.
 
+✅ Chatbot ka kaam hai:
+
+1. Aise users ko dynamically message bhejna jinhone register to kiya hai, lekin service use nahi kar rahe.
+2. Har user ko contextually samajhne ke liye hum RAG (Retrieval-Augmented Generation) ka use karte hain — jaise ki unka past conversation ya common objections (e.g., trust issue, financial concern, loss, confusion, etc.).
+3. Us context ke base pe chatbot ko relevant, empathetic aur convincing follow-up messages bhejne chahiye, taaki user wapas engage kare.
+4. Common dispositions (e.g., “abhi interest nahi hai”, “paisa nahi hai”, “samajh nahi aaya”, etc.) pe chatbot ko automatically correct response dena chahiye.
+5. Revival hamara main objective hai, to flow ko is goal ke around design kiya gaya hai — personalized messaging se user ko platform pe wapas lana.
+6.Generate the message as a small whatsapp message
+📌 Har interaction user-centric, revival-focused aur trust-building hona chahiye. Message professional yet friendly tone mein hona chahiye.
         Context:
         {context}
 
@@ -118,14 +125,17 @@ async def whatsapp_webhook( request:Request):
 
     # Use existing user chain
     chain = user_sessions[sender]
-    response = chain.invoke({"question": incoming_msg})
     delivered_at = data.get("data", {}).get("message", {}).get("delivered_at")
     delivered_time = datetime.fromtimestamp(delivered_at / 1000, tz=timezone.utc)
     five_minutes_ago = datetime.now(timezone.utc) - timedelta(minutes=5)
-    if delivered_time >= five_minutes_ago and incoming_msg:
-        send_custom_messages(message=response["answer"],phone=sender)
-        print({"status": "messages sent"})
-        return response["answer"]
+    from read_sheets import get_data
+    extracted_data = get_data()
+    if delivered_time<five_minutes_ago and incoming_msg:
+        if sender in extracted_data["Phone number"]:
+            response = chain.invoke({"question": incoming_msg})
+            send_custom_messages(message=response["answer"],phone=sender)
+            print({"status": "messages sent"})
+            return response["answer"]
     else:
         return "Time not now"
 
