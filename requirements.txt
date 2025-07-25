@@ -13,3 +13,7 @@ uvicorn
 cohere
 langchain-cohere
 python-multipart
+gspread
+oauth2client
+gspread-dataframe
+pandas
