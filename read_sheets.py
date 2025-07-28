@@ -3,7 +3,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from gspread_dataframe import set_with_dataframe
 import pandas as pd
 
-SHEET_NAME = "Copy of Revival Call Disposition"
+SHEET_NAME = "Revival Inactive leads"
 CREDENTIALS_FILE = "trusty-bearing-443508-h4-c846c63e1580.json"
 
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
@@ -35,9 +35,9 @@ def get_data(sheet_name="Sheet1"):
         if len(row) < len(headers):
             row += [''] * (len(headers) - len(row))
         extracted_row = {
-            "Name": row[header_map["Name"]],
-            "Phone number": row[header_map["Phone number"]],
-            "Common Call Disposition": row[header_map["Common Call Disposition"]],
+            "User Name": row[header_map["Name"]],
+            "User number": row[header_map["Phone number"]],
+            "Disposition": row[header_map["Common Call Disposition"]],
         }
         extracted_data.append(extracted_row)
 

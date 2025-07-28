@@ -130,8 +130,9 @@ async def whatsapp_webhook( request:Request):
     five_minutes_ago = datetime.now(timezone.utc) - timedelta(minutes=5)
     from read_sheets import get_data
     extracted_data = get_data()
+    phone_numbers = [f"91{data["Phone number"]}" for data in extracted_data]
     if delivered_time<five_minutes_ago and incoming_msg:
-        if sender in extracted_data["Phone number"]:
+        if sender in phone_numbers:
             response = chain.invoke({"question": incoming_msg})
             send_custom_messages(message=response["answer"],phone=sender)
             print({"status": "messages sent"})
