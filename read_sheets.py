@@ -4,7 +4,7 @@ from gspread_dataframe import set_with_dataframe
 import pandas as pd
 
 SHEET_NAME = "Revival Inactive leads"
-CREDENTIALS_FILE = "trusty-bearing-443508-h4-c846c63e1580.json"
+CREDENTIALS_FILE = "healthy-gasket-467014-v4-86372daa8200.json"
 
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds = ServiceAccountCredentials.from_json_keyfile_name(CREDENTIALS_FILE, scope)
@@ -25,7 +25,7 @@ def get_data(sheet_name="Sheet1"):
 
     header_map = {header: idx for idx, header in enumerate(headers)}
 
-    required_columns = ["Name", "Phone number", "Common Call Disposition"]
+    required_columns = ["User Name", "User number", "Disposition"]
     for col in required_columns:
         if col not in header_map:
             raise ValueError(f"Missing column: {col}")
@@ -35,9 +35,9 @@ def get_data(sheet_name="Sheet1"):
         if len(row) < len(headers):
             row += [''] * (len(headers) - len(row))
         extracted_row = {
-            "User Name": row[header_map["Name"]],
-            "User number": row[header_map["Phone number"]],
-            "Disposition": row[header_map["Common Call Disposition"]],
+            "User Name": row[header_map["User Name"]],
+            "User number": row[header_map["User number"]],
+            "Disposition": row[header_map["Disposition"]],
         }
         extracted_data.append(extracted_row)
 
