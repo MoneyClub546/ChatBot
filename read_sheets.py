@@ -4,7 +4,7 @@ from gspread_dataframe import set_with_dataframe
 import pandas as pd
 
 SHEET_NAME = "Revival Inactive leads"
-CREDENTIALS_FILE = "healthy-gasket-467014-v4-86372daa8200.json"
+CREDENTIALS_FILE = "healthy-gasket-467014-v4-21853776be9b.json"
 
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds = ServiceAccountCredentials.from_json_keyfile_name(CREDENTIALS_FILE, scope)
