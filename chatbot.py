@@ -146,7 +146,8 @@ async def send_msgs_app(request:Request):
     data = await request.json()
     problems = data.get("problems")
     names = data.get("names")
-    phones = f"91{data.get("phones")}"
+    phones = data.get("phones")
+    phones = [f"91{phone}" for phone in phones]
     send_messages(problems,names,phones)
 
 
