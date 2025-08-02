@@ -132,7 +132,7 @@ def summarize_with_llm(prompt, chunk, name="Aakash"):
             }
         ],
         temperature=0.7, 
-        max_tokens=250, 
+        max_tokens=500, 
     )
     
     message = response.choices[0].message.content.strip()
